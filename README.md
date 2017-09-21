@@ -8,4 +8,4 @@ Here are some demos:
 ![Alt text](peg_solitaire.png?raw=true "Title")
 ![Alt text](peg_solitaire2.png?raw=true "Title")
 # MN puzzel
-![Alt text](mn_puzzel.png?raw=true "Title")
+![Alt text](mn_puzzle.png?raw=true "Title")
